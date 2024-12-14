@@ -4,6 +4,8 @@
 ![Screenshot (194)](https://github.com/user-attachments/assets/df276d31-4a90-466a-b47d-55865dee3eb3)
 ![Screenshot (195)](https://github.com/user-attachments/assets/b8f43df7-a29b-42d0-8302-08579efe7e59)
 
+![image](https://github.com/user-attachments/assets/9a396462-637d-4be4-a9c3-9de0b9ba60ad)
+
 Some Features:
 
 -   ⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
