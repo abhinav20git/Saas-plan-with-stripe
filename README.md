@@ -1,10 +1,12 @@
 <h1 align="center">Saas Plan with Stripe</h1>
-![Screenshot (192)](https://github.com/user-attachments/assets/7772412d-1fa0-40c5-b7b4-2b273e97440f)
-![Screenshot (193)](https://github.com/user-attachments/assets/ca943157-72f7-483c-b2e5-2cb1b204669c)
-![Screenshot (194)](https://github.com/user-attachments/assets/df276d31-4a90-466a-b47d-55865dee3eb3)
-![Screenshot (195)](https://github.com/user-attachments/assets/b8f43df7-a29b-42d0-8302-08579efe7e59)
 
-![image](https://github.com/user-attachments/assets/9a396462-637d-4be4-a9c3-9de0b9ba60ad)
+![image](https://github.com/user-attachments/assets/5cf3028a-d438-4130-965d-b91133158cb6)
+
+![image](https://github.com/user-attachments/assets/7ebb032a-61c4-48b9-8ef8-d755f0d0869f)
+
+![image](https://github.com/user-attachments/assets/6f006946-918e-45d5-8a38-34f49de2c87e)
+
+![image](https://github.com/user-attachments/assets/d9666d29-1b60-4ce0-b5bb-1bcad8c0c1d8)
 
 Some Features:
 
