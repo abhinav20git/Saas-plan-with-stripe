@@ -4,7 +4,6 @@
 ![Screenshot (194)](https://github.com/user-attachments/assets/df276d31-4a90-466a-b47d-55865dee3eb3)
 ![Screenshot (195)](https://github.com/user-attachments/assets/b8f43df7-a29b-42d0-8302-08579efe7e59)
 
-https://private-user-images.githubusercontent.com/118235094/395760573-aac5d459-571b-4fb0-9fa1-91f8017e6f25.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxNjEzNDksIm5iZiI6MTczNDE2MTA0OSwicGF0aCI6Ii8xMTgyMzUwOTQvMzk1NzYwNTczLWFhYzVkNDU5LTU3MWItNGZiMC05ZmExLTkxZjgwMTdlNmYyNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxNFQwNzI0MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODA3YWYzOGI0ZDJjZGQzMDRkMmMzN2ZjMjFiNmQ3YzdkY2JjNjA4OTNiN2UzM2U4MjdhNTNkYTU3MDY2MDI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.A8gAyCALks0USeMNMdcSvfw0HF_ku1cikUpXKdk-eMc
 Some Features:
 
 -   ⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
@@ -39,13 +38,11 @@ NEXT_PUBLIC_STRIPE_CUSTOMER_PORTAL_URL=<get_from_stripe>
 
 ### Install dependencies
 
-```shell
 npm install
 ```
 
 ### Start the app
 
-```shell
 npm run dev
 ```
 
